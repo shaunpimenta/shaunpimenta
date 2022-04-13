@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 ![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunpimenta&show_icons=true&theme=radical)
 <!-- [![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunpimenta)](https://github.com/shaunpimenta/github-readme-stats) -->
 ### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunpimenta)](https://github.com/shaunpimenta/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunpimenta&show_icons=true&theme=radical)](https://github.com/shaunpimenta/github-readme-stats)
