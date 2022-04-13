@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Visitor Count 
-[![Visitor Count](https://profile-counter.glitch.me/{shaunpimenta}/count.svg)]
+![Visitor Count](https://profile-counter.glitch.me/{shaunpimenta}/count.svg)
 <br>
+###Github Streak !!
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaunpimenta&theme=radical)](https://git.io/streak-stats)
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shaunpimenta>&theme=<THEME_NAME>" /> -->
+### Github Stat's
 ![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunpimenta&show_icons=true&theme=radical)
 <!-- [![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunpimenta)](https://github.com/shaunpimenta/github-readme-stats) -->
+### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunpimenta)](https://github.com/shaunpimenta/github-readme-stats)
