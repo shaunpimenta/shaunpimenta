@@ -26,4 +26,8 @@ Here are some ideas to get you started:
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunpimenta&show_icons=true&theme=radical)](https://github.com/shaunpimenta/github-readme-stats)
 ### Connect
-<a href="https://www.linkedin.com/in/shaunpimenta/"><img align="left"src="https://raw.githubusercontent.com/shaunpimenta/shaunpimenta/main/images/linkedin.svg" alt="Shaun Pimenta | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/shaunpimenta/"><img align="left"src="https://raw.githubusercontent.com/shaunpimenta/shaunpimenta/main/images/linkedin.svg" alt="Shaun Pimenta | LinkedIn" width="21px"></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/shaunpimenta/shaunpimenta/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/yushi.95"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
+<a href="https://yushi95.medium.com/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
+</br>
