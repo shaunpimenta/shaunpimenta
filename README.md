@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!-- [![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunpimenta)](https://github.com/shaunpimenta/github-readme-stats) -->
 ### Top Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunpimenta&show_icons=true&theme=radical)](https://github.com/shaunpimenta/github-readme-stats)
-### Connect
+### Connect with me !!
 <a href="https://www.linkedin.com/in/shaunpimenta/"><img align="left" src="https://raw.githubusercontent.com/shaunpimenta/shaunpimenta/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 <a href="https://instagram.com/shaunpimenta"><img align="left" src="https://raw.githubusercontent.com/shaunpimenta/shaunpimenta/main/images/instagram.svg" alt="Shaun | Instagram" width="21px"/></a>
 <a href="https://twitter.com/shaunpimenta"><img align="left" src="https://raw.githubusercontent.com/shaunpimenta/shaunpimenta/main/images/twitter.png" alt="Shaun | Twitter" width="21px"/></a>
