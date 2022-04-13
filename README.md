@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shaunpimenta>&theme=<THEME_NAME>" /> -->
 ![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunpimenta&show_icons=true&theme=radical)
 <!-- [![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunpimenta)](https://github.com/shaunpimenta/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaunpimenta)](https://github.com/shaunpimenta/github-readme-stats)
