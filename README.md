@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shaunpimenta>&theme=<THEME_NAME>" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shaunpimenta>&theme=<THEME_NAME>" /> -->
+[![Shaun's GitHub stats](https://github-readme-stats.vercel.app/api?username=shaunpimenta)](https://github.com/shaunpimenta/github-readme-stats)
