@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ### Github Streak 
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shaunpimenta&theme=radical)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaunpimenta)](https://git.io/streak-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shaunpimenta)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=shaunpimenta&theme=radical)](https://git.io/streak-stats)
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<shaunpimenta>&theme=<THEME_NAME>" /> -->
 ### Github Stat's
