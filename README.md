@@ -2,12 +2,26 @@
 
 🚀 Systems Enthusiast | AI/ML Explorer | Embedded Systems Developer  
 
-- 🖥 Currently building my own **Private Cloud Server**
-- 🤖 Exploring applications of **AI/ML in intelligent systems**
+  
+## 🔭 Currently Working On
+
+- 🖥 Building my own **Private Cloud Server**
 - 📱 Working on **VoLTE enablement for Samsung ROMs**
-- ⚙️ Diving deep into **Kernel-level development & low-level systems**
+- 🧠 Exploring **AI/ML applications in intelligent systems**
+- ⚙️ Learning **Kernel-level development & low-level systems**
 
 I enjoy understanding systems from the ground up — from hardware and kernels to distributed cloud architectures.
+
+## 🤝 Open to Collaborate
+
+I’m actively looking to collaborate in:
+
+- 🤖 AI / Machine Learning
+- 🔌 Embedded Systems
+- 🧠 Systems Programming
+- ☁️ Cloud & Infrastructure Projects
+
+If you're building something interesting in these spaces — let’s connect.
 
 ---
 
