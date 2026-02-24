@@ -1,5 +1,66 @@
 ### Hi there 👋, I am Shaun Pimenta
 
+🚀 Systems Enthusiast | AI/ML Explorer | Embedded Systems Developer  
+
+- 🖥 Currently building my own **Private Cloud Server**
+- 🤖 Exploring applications of **AI/ML in intelligent systems**
+- 📱 Working on **VoLTE enablement for Samsung ROMs**
+- ⚙️ Diving deep into **Kernel-level development & low-level systems**
+
+I enjoy understanding systems from the ground up — from hardware and kernels to distributed cloud architectures.
+
+---
+
+## 🚀 Featured Projects
+
+✨ Check out some of my favorite projects below  
+(See the pinned repositories)
+
+These projects reflect my work across:
+- AI-driven systems  
+- Distributed infrastructure  
+- Embedded experimentation  
+- Cloud-native applications  
+
+---
+
+# 🧠 Domains of Focus
+
+## 🔌 Embedded Systems
+- Android ROM modification & system-level customization  
+- VoLTE stack experimentation  
+- Hardware-software interaction  
+- Performance tuning & optimization  
+
+## 🤖 AI / Machine Learning
+- Intelligent automation systems  
+- Behavioral analytics  
+- Applied ML in security and infrastructure  
+- Model deployment & optimization  
+
+## ⚙️ Systems Programming
+- Linux internals  
+- Kernel fundamentals  
+- Memory management concepts  
+- Low-level debugging  
+
+## ☁️ Cloud / DevOps
+- Private cloud infrastructure  
+- Self-hosted services  
+- Containerization & orchestration  
+- Secure distributed system design  
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Linux kernel internals  
+- Distributed system architecture  
+- Infrastructure hardening  
+- Performance profiling techniques  
+
+---
+
 # 💫 About Me:
 I am currently working on making my own private cloud server<br>I am looking to collaborate in the AI/ML and embedded systems space<br>I am looking for help in enabling volte on Samsung roms<br>I am currently learning about kernel level stuff
 
