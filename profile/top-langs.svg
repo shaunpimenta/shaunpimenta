@@ -130,7 +130,17 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="87.84"
+          width="204.63"
+          height="8"
+          fill="#3572A5"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="204.63"
+          y="0"
+          width="16.08"
           height="8"
           fill="#e34c26"
         />
@@ -138,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="87.84"
+          x="220.70999999999998"
           y="0"
-          width="71.36"
+          width="11.2"
           height="8"
           fill="#DA5B0B"
         />
@@ -148,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="159.2"
+          x="231.90999999999997"
           y="0"
-          width="48.31"
+          width="17.83"
           height="8"
           fill="#663399"
         />
@@ -158,75 +168,65 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="207.51"
+          x="239.73999999999998"
           y="0"
-          width="20.82"
+          width="16.82"
+          height="8"
+          fill="#fedf5b"
+        />
+      
+        <rect
+          mask="url(#rect-mask)"
+          data-testid="lang-progress"
+          x="246.55999999999997"
+          y="0"
+          width="13.44"
           height="8"
           fill="#f1e05a"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="228.32999999999998"
-          y="0"
-          width="18.17"
-          height="8"
-          fill="#e4cc98"
-        />
-      
-        <rect
-          mask="url(#rect-mask)"
-          data-testid="lang-progress"
-          x="246.5"
-          y="0"
-          width="13.51"
-          height="8"
-          fill="#3572A5"
         />
       
       
     <g transform="translate(0, 25)">
       <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#e34c26" />
+      <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 35.14%
+        Python 81.85%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
+      <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Jupyter Notebook 28.54%
+        HTML 6.43%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#663399" />
+      <circle cx="5" cy="6" r="5" fill="#DA5B0B" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 19.33%
+        Jupyter Notebook 4.48%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
-      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
+      <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        JavaScript 8.33%
+        CSS 3.13%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
-      <circle cx="5" cy="6" r="5" fill="#e4cc98" />
+      <circle cx="5" cy="6" r="5" fill="#fedf5b" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Tcl 7.27%
+        Cython 2.73%
       </text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
-      <circle cx="5" cy="6" r="5" fill="#3572A5" />
+      <circle cx="5" cy="6" r="5" fill="#f1e05a" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 1.40%
+        JavaScript 1.38%
       </text>
     </g>
   </g></g>
