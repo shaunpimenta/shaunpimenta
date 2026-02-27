@@ -48,7 +48,7 @@ These projects reflect my work across:
 
 ## 🤖 AI / Machine Learning
 - Intelligent automation systems  
-- Behavioral analytics  
+- Computer Vision and Color Analysis  
 - Applied ML in security and infrastructure  
 - Model deployment & optimization  
 
@@ -70,8 +70,6 @@ These projects reflect my work across:
 
 - Advanced Linux kernel internals  
 - Distributed system architecture  
-- Infrastructure hardening  
-- Performance profiling techniques  
 
 ---
 
